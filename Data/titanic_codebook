@@ -1,0 +1,13 @@
+Titanic Codebook
+
+This data set consists of twelve variables with information about passengers on the Titanic:
+
+passenger_id: Numeric row number unique for each passenger
+survived: Categorical variable: "yes" or "no", whether or not a passenger survived
+...
+* NOTE: if got from kaggle, probably have a codebook available 
+* do not have to make speerate file for methods used 
+
+# put codebook and actual dataset into data folder
+# put r scipt drafts in to r script folder 
+
